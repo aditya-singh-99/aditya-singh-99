@@ -1,6 +1,6 @@
-# Hi there, I'm Aditya Singh 👋
+# Hi there, I'm Aditya Kumar Singh 👋
 
-I'm a pre-final year Computer Science Engineering student at Kamla Nehru Institute of Technology (KNIT). I'm passionate about web development, programming, and leveraging technology to solve real-world problems. I enjoy working with the MERN stack and have experience in building full-stack applications.
+I'm a pre-final year Computer Science Engineering student at Kamla Nehru Institute of Technology (KNIT), Sultanpur. I'm passionate about web development, programming, and leveraging technology to solve real-world problems. I enjoy working with the MERN stack and have experience in building full-stack applications.
 
 ## 👨‍💻 About Me
 - 🎓 **Education:** B.Tech in Computer Science Engineering
